@@ -30,7 +30,7 @@ def private_panel(_):
             InlineKeyboardButton(text="𝙶𝚁𝙾̀𝚄𝙿", url=f"https://t.me/Q1_QU"), 
         ],
         [
-            InlineKeyboardButton(text="ألموع ـلم مـ ــيــ ــدؤ ســ ـــنــ ــدأل >3`", url=f"https://t.me/I1_35"), 
+            InlineKeyboardButton(text="مطور السورس", url=f"https://t.me/EU_ET"), 
             InlineKeyboardButton(text="𝚂́𝙾𝚄𝚁𝙲𝙴 𝚁𝙸𝙽𝙾", url=f"https://t.me/I1_35") , 
         ],
     ]
