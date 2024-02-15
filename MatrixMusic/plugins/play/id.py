@@ -31,7 +31,7 @@ async def iddopen(client, message):
 
 
 
-@app.on_message(filters.command(["ايدي","الايدي","ا"], ""))
+@app.on_message(filters.command(["ايااااكنادي","الايااااةزدي","تتتازاا"], ""))
 async def iddd(client, message):
     if message.chat.id in iddof:
       return
