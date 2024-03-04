@@ -24,7 +24,6 @@ def private_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
-        [InlineKeyboardButton(text="اوامــــر الـــبـــوت📚", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="مطور البوت", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="𝙶𝚁𝙾̀𝚄𝙿", url=f"https://t.me/Q1_QU"), 
