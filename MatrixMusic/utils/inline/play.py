@@ -84,10 +84,10 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="ᏢᎪႮՏᎬ", callback_data=f"ADMIN Pause|{chat_id}"),
             
         ],[
-            InlineKeyboardButton(text="ՏΌႮᎡᏟᎬ ᏞΌͲႮՏ", url=f"https://t.me/l2_2Y"),
-            InlineKeyboardButton(text="ᏀᎡΌႮᏢ", url=f"https://t.me/jx_xll"),
+            InlineKeyboardButton(text="ՏΌႮᎡᏟᎬ ᏞΌͲႮՏ", url=f"https://t.me/I1_35"),
+            InlineKeyboardButton(text="ᏀᎡΌႮᏢ", url=f"https://t.me/Q1_QU"),
         ],[
-            InlineKeyboardButton(text="𖥻 َِ𝗨َِ𝗥 , َِ𝗙َِ𝗮َِ𝗩 َِ𝗔َِ𝗯َِ𝗗َِ𝗼َِ𝗼•", url=f"https://t.me/jx_xr"),
+            InlineKeyboardButton(text="ألموع ـلم مـ ــيــ ــدؤ الـســ ـــنــ ــدأل >3`", url=f"https://t.me/EU_ET"),
         ],[
             InlineKeyboardButton(text="⚡اضف البوت الي مجموعتك او قناتك", url=f"https://t.me/{app.username}?startgroup=true")],
     ]
