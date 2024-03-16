@@ -61,13 +61,13 @@ def stream_markup_timer(_, chat_id, played, dur):
                 callback_data="GetTimer",
             )
         ],[  
-            InlineKeyboardButton(text="ᎬΝᎠ", callback_data=f"ADMIN Stop|{chat_id}"),
-            InlineKeyboardButton(text="ᎡᎬՏႮᎷᎬ", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="ᏢᎪႮՏᎬ", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(text="𝐄𝐍𝐃", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="𝐑𝐄𝐒𝐔𝐌𝐄", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="𝐏𝐀𝐔𝐒𝐄", callback_data=f"ADMIN Pause|{chat_id}"),
             
         ],[
-            InlineKeyboardButton(text="ՏΌႮᎡᏟᎬ ᏞΌͲႮՏ", url=f"https://t.me/l2_2Y"),
-            InlineKeyboardButton(text="ᏀᎡΌႮᏢ", url=f"https://t.me/jx_xll"),
+            InlineKeyboardButton(text="𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ", url=f"https://t.me/I1_35"),
+            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"url=f"https://t.me/Q1_QU"),
         ],[
             InlineKeyboardButton(text="ألموع ـلم مـ ــيــ ــدؤ الـســ ـــنــ ــدأل >3`", url=f"https://t.me/EU_TM"),
         ],[
