@@ -42,7 +42,7 @@ async def vgdg(client: Client, message: Message):
         
 
 array = []
-@app.on_message(command(["@all", "تاك","تاك للكل"]) & ~filters.private)
+@app.on_message(command(["تلىاةةوتتاتننتتتتن"]) & ~filters.private)
 async def nummmm(client: app, message):
   if message.chat.id in array:
      return await message.reply_text("التاك قيد التشغيل حالياً ،")
