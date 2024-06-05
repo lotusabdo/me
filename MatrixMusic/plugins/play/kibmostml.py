@@ -117,7 +117,7 @@ async def ihd(client: Client, message: Message):
             ]
         )
 
-@app.on_message(filters.command(["صور شباب", "✨صور شباب"], ""))
+@app.on_message(filters.command(["★افاتار شباب★ ", "✨صور شباب "], ""))
 async def ihd(client: Client, message: Message):
     rl = random.randint(2,90)
     url = f"https://t.me/vgbmm/{rl}"
