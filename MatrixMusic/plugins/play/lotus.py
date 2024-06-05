@@ -49,19 +49,19 @@ async def almortagel(client: Client, message: Message):
     url = f"https://t.me/flflfldld/{rl}"
     await client.send_photo(message.chat.id,url,caption="💙 ¦ تـم اختيـار هيدرات لـك")
 
-@app.on_message(filters.command(["صور", "افاتار بنات"], ""))
+@app.on_message(filters.command(["★افاتار بنات★", "افاتار بنات"], ""))
 async def almortagel(client: Client, message: Message):
     rl = random.randint(2,216)
     url = f"https://t.me/vvyuol/{rl}"
     await client.send_photo(message.chat.id,url,caption="💙 ¦ تـم اختيـار افاتار بنات لـك")
 
-@app.on_message(filters.command(["صور شباب", "★افاتار شباب★ شباب"], ""))
+@app.on_message(filters.command(["★افاتار شباب★"], ""))
 async def almortagel(client: Client, message: Message):
     rl = random.randint(2,148)
     url = f"https://t.me/vgbmm/{rl}"
     await client.send_photo(message.chat.id,url,caption="💙 ¦ تـم اختيـار افاتار شباب لـك")
 
-@app.on_message(filters.command(["سورة"], ""))
+@app.on_message(filters.command(["★قران★"], ""))
 async def almortagel(client: Client, message: Message):
     rl = random.randint(2,82)
     url = f"https://t.me/opuml/{rl}"
