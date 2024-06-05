@@ -16,7 +16,7 @@ from pyrogram.errors import FloodWait
 
 hmses = {}
 
-@app.on_message(filters.reply & filters.regex("اهمس") & filters.group, group=579)
+@app.on_message(filters.reply & filters.regex("همسه") & filters.group, group=579)
 async def reply_with_link(client, message):
     user_id = message.reply_to_message.from_user.id
     my_id = message.from_user.id
