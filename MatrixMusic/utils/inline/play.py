@@ -66,10 +66,10 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="𝐏𝐀𝐔𝐒𝐄", callback_data=f"ADMIN Pause|{chat_id}"),
             
         ],[
-            InlineKeyboardButton(text="𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ", url=f"https://t.me/I1_35"),
-            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/Q1_QU"),
+            InlineKeyboardButton(text="𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ", url=f"https://t.me/Y_S_O0"),
+            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/as_o1"),
         ],[
-            InlineKeyboardButton(text="ألموع ـلم مـ ــيــ ــدؤ الـســ ـــنــ ــدأل >3`", url=f"https://t.me/EU_ET"),
+            InlineKeyboardButton(text="💴 زيَٰـُـٰٓـآدـ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 𝗩𝗜𝗣׀𝑨𝑳𝒁𝑶𝒁ـ⁠⁠⁠⁠⁠⁠⁠", url=f"https://t.me/G_O_Z_L"),
         ],[
             InlineKeyboardButton(text="اضف البوت الي مجموعتك او قناتك⚡", url=f"https://t.me/{app.username}?startgroup=true")],
     ]
@@ -84,10 +84,10 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="𝐏𝐀𝐔𝐒𝐄", callback_data=f"ADMIN Pause|{chat_id}"),
             
         ],[
-            InlineKeyboardButton(text="𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url=f"https://t.me/I1_35"),
-            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/Q1_QU"),
+            InlineKeyboardButton(text="𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url=f"https://t.me/Y_S_O0"),
+            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/as_o1"),
         ],[
-            InlineKeyboardButton(text="ألموع ـلم مـ ــيــ ــدؤ الـســ ـــنــ ــدأل >3`", url=f"https://t.me/EU_ET"),
+            InlineKeyboardButton(text="💴 زيَٰـُـٰٓـآدـ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 𝗩𝗜𝗣׀𝑨𝑳𝒁𝑶𝒁ـ⁠⁠⁠⁠⁠⁠⁠", url=f"https://t.me/G_O_Z_L"),
         ],[
             InlineKeyboardButton(text="⚡اضف البوت الي مجموعتك او قناتك", url=f"https://t.me/{app.username}?startgroup=true")],
     ]
