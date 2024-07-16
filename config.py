@@ -36,7 +36,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/me2wdo/medo.git",
+    "https://github.com/lotusabdo/medo.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -94,18 +94,18 @@ command = ["/"]
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-STREAM_IMG_URL ="https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+STREAM_IMG_URL ="https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/30cf70b0716df18ddc950.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/e4a34cbe57d14da30235b.jpg"
