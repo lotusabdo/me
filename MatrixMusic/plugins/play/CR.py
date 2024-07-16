@@ -20,19 +20,19 @@ from random import  choice, randint
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/0395107f7b3d1e6ddda9f.jpg",
+        photo=f"https://te.legra.ph/file/30cf70b0716df18ddc950.jpg",
         caption=f"""\nمرحبا بك عزيزي {message.from_user.mention} في قسم سورس ميوزك\nللتحدث مع مطور السورس اضغط علي الازرار بالاسفل👇""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "𝙶𝚁𝙾̀𝚄𝙿", url=f"https://t.me/Q1_QU"), 
+                        "𝙶𝚁𝙾̀𝚄𝙿", url=f"https://t.me/as_o1"), 
                  InlineKeyboardButton(
-                   " ՏΌႮᎡᏟᎬ ᎡᎥΝΌ",       url=f"https://t.me/I1_35"), 
+                   " 𝙎𝙤𝙪𝙧𝙘𝙚 𝘼𝙡 𝙕𝙤𝙯",       url=f"https://t.me/Y_S_O0"), 
                  
              ],[ 
             InlineKeyboardButton(
-                        "ألموع ـلم مـ ــيــ ــدؤ ســ ـــنــ ــدأل >3`", url=f"https://t.me/EU_ET"), 
+                        "💴 زيَٰـُـٰٓـآدـ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 𝗩𝗜𝗣׀𝑨𝑳𝒁𝑶𝒁ـ⁠⁠⁠⁠⁠⁠⁠", url=f"https://t.me/G_O_Z_L"), 
                  
                 ],
 
