@@ -9,7 +9,7 @@ def start_panel(_):
             InlineKeyboardButton(
                 text="اضغط لاضافتي لمجموعتك✅", url=f"https://t.me/{app.username}?startgroup=true"
             ),
-            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url= "https://t.me/Q1_QU"),
+            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url= "https://t.me/as_o1"),
         ],
     ]
     return buttons
@@ -25,8 +25,8 @@ def private_panel(_):
         ],
         
         [
-            InlineKeyboardButton(text="مٓ ـطؤر آلسؤرس", url= "https://t.me/EU_ET"),
-            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/Q1_QU"), 
+            InlineKeyboardButton(text="مٓ ـطؤر آلسؤرس", url= "https://t.me/G_O_Z_L"),
+            InlineKeyboardButton(text="𝐆𝐑𝐎𝐔𝐏", url=f"https://t.me/as_o1"), 
         ],
         [
             
