@@ -1,4 +1,4 @@
-from MatrixMusic.core.bot import Zelzaly
+
 from MatrixMusic.core.dir import dirr
 from MatrixMusic.core.git import git
 from MatrixMusic.core.userbot import Userbot
